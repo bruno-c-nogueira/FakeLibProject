@@ -1,0 +1,3 @@
+rootProject.name = "FakeLibProject"
+include ':app'
+include ':fakelibrary'
